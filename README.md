@@ -1,1 +1,1 @@
-#This is my emacs initialize configurations
+# This is my emacs initialize configurations
